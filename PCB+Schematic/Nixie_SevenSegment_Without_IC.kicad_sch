@@ -953,7 +953,7 @@
     (property "Reference" "R10" (id 0) (at 87.63 38.0999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R" (id 1) (at 87.63 40.6399 0)
+    (property "Value" "100R" (id 1) (at 87.63 40.6399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 83.312 39.37 90)
@@ -972,7 +972,7 @@
     (property "Reference" "R8" (id 0) (at 24.13 38.0999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R" (id 1) (at 24.13 40.6399 0)
+    (property "Value" "100R" (id 1) (at 24.13 40.6399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 19.812 39.37 90)
@@ -1302,7 +1302,7 @@
     (property "Reference" "R9" (id 0) (at 55.88 38.0999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R" (id 1) (at 55.88 40.6399 0)
+    (property "Value" "100R" (id 1) (at 55.88 40.6399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 51.562 39.37 90)
@@ -1711,13 +1711,13 @@
       (reference "R7") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/3c0902bf-745d-4478-b604-bfb41d7626d8"
-      (reference "R8") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+      (reference "R8") (unit 1) (value "100R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/91069721-fdb8-46c1-adb2-457fe08c5858"
-      (reference "R9") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+      (reference "R9") (unit 1) (value "100R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/2e9c767a-dcdc-4451-b305-337f9b1a904b"
-      (reference "R10") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+      (reference "R10") (unit 1) (value "100R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/59b02917-1da6-40a1-9865-daa08474c094"
       (reference "U1") (unit 1) (value "WS2811") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
