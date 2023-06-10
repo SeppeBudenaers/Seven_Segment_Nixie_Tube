@@ -26,5 +26,5 @@ To configure the LED filament seven segment display to WS2811 mode, solder the s
 | 8 2,54mm pinheader reverse bending 90° | x1       | [AliExpress Link](https://nl.aliexpress.com/item/4000660389713.html?spm=a2g0o.productlist.main.5.6b8d804dlred9v&algo_pvid=283ea269-678a-498f-bd60-9fb64c34b0f6&algo_exp_id=283ea269-678a-498f-bd60-9fb64c34b0f6-2&pdp_npi=3%40dis%21EUR%210.67%210.62%21%21%21%21%21%402100b18f16839900715117374d078a%2110000005517155325%21sea%21BE%213754600235&curPageLogUid=IQMuIH5lTEpR) |
 
 ## todo
--[_] Add media.
--[_] Write a library for arduino to use my segments in WS2811 mode.
+- [ ] Add media.
+- [ ] Write a library for arduino to use my segments in WS2811 mode.
